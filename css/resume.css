@@ -1,0 +1,156 @@
+.navbar-default .navbar-brand{                                          
+	font-family:Gill Sans MT;
+	font-size: 25px;
+	font-weight:bold;
+	color: #b2d8b2;
+}
+
+ul.dropdown-menu{
+	background-color:#101010;
+}
+
+.dropdown-menu li a{
+	background-color:#333333;
+	color:#a9a9a9;
+	padding:0;
+}
+
+.dropdown:hover .dropdown-menu {
+    /** Show dropdown menu */
+    display: block;
+}
+
+.flag_menu{
+	height:45%;
+	width:45%;
+}
+
+.flag{
+	height:25%;
+	width:25%;
+}
+
+a{
+	font-family:Gill Sans MT;
+	font-size: 18px;
+}
+
+body{
+	line-height: 1.5;
+}
+
+.resume-hr{
+	border:1px solid #d4d1d1
+}
+
+.page-content{
+	padding:0;
+}
+
+.job-logo-container{
+	padding-left:0;
+	padding-top:100;
+}
+
+.col-md-3{
+	width:25%;
+}
+
+.job-logo{
+	max-width: 200px;
+	max-height:100px;
+	position:relative;
+}
+
+.certificate-logo{
+	max-width: 200px;
+	max-height:100px;
+	position:relative;
+}
+
+.educate-logo{
+	max-width: 200px;
+	max-height:100px;
+	position:relative;
+	margin-bottom:35px;
+}
+
+.community-logo{
+	max-width: 200px;
+	max-height:100px;
+	position:relative;
+	margin-bottom:35px;
+}
+
+img{
+	vertical-align:middle;
+	border:0;
+}
+
+.job.header{
+	margin-bottom:0;
+	margin-top:0;
+}
+
+.job-time-location{
+	margin-top:0;
+}
+
+h2{
+	font-family:Gill Sans MT;
+	font-size: 35px;
+	font-weight:bold;
+	line-height:2;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+h3{
+	font-family:Gill Sans MT;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+h4{
+	font-family:Gill Sans MT;
+	padding-bottom:30px;
+}
+
+p{
+	font-family:Gill Sans MT;
+	font-size: 18px;
+	font-style:italic;
+}
+
+.resume-hr{
+	margin:0px;
+    border:none;
+    color:#5fbfef;
+    height:1px;
+    background:#2b669a;
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 800, from(black), to(white));
+}
+
+.site-footer{
+	border-top:1px solid #e8e8e8;
+		border-top-width: 1px;
+		border-top-style: solid;
+		border-top-color: rgb(232, 232, 232);
+	padding:30px 0;
+		padding-top: 30px;
+		padding-right: 0px;
+		padding-bottom: 30px;
+		padding-left: 0px;
+	background-color:#FFFFFF;
+	background-size:cover;
+	text-align:center;
+}
+
+.site-footer li{
+	display:inline;
+	padding:0.5%;
+}
+
+#end li{
+	list-style-type: none;
+}
